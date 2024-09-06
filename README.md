@@ -2,7 +2,7 @@
 
 ## Description
 
-The Unareti Dashboard is a web application built using Python and Flask framework. It provides a user-friendly interface to visualize and analyze data coming from lectures of Unareti electric meter. The dashboard is designed to be used by Unareti's customers to monitor their energy consumption and to help them make informed decisions about their energy usage.
+I made this dashboard as a web application built using Python and Flask framework. It provides a user-friendly interface to visualize and analyze data coming from lectures of Unareti electric meter. The dashboard is designed to be used by Unareti's customers to monitor their energy consumption and to help them make informed decisions about their energy usage.
 
 ## Installation
 
